@@ -2,6 +2,7 @@ import functions
 import time
 time = f"{time.strftime("%c")}"
 print(time)
+print("test 123")
 while True:
     user_action = input("Type add, show, edit, complete or exit:")
     user_action = user_action.strip()
