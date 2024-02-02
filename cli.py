@@ -1,5 +1,7 @@
 import functions
 import time
+import gui
+
 time = f"{time.strftime("%c")}"
 print(time)
 
